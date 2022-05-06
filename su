@@ -1,4 +1,4 @@
-function Invoke-SharpUp
+function Invoke-su
 {
 
     [CmdletBinding()]
